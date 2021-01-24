@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "jhy979"
+  name             : "야무진 블로그"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "jhy979"
   #location         : "Somewhere"
   email            :
   links:

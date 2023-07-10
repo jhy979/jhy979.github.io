@@ -1,9 +1,9 @@
 {
-  "name": "zoomkoding.com",
+  "name": "jhy979.com",
   "private": false,
-  "description": "A neat blog theme for developers",
+  "description": "A neat blog theme for developers by zoomkoding",
   "version": "3.0.0",
-  "author": "zoomkoding <zoomkoding@gmail.com>",
+  "author": "jhy979 <jhy979@gmail.com>",
   "dependencies": {
     "@mui/icons-material": "^5.1.0",
     "@mui/material": "^5.1.0",
@@ -54,12 +54,5 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/zoomkoding/zoomkoding-gatsby-blog"
-  },
-  "bugs": {
-    "url": "https://github.com/zoomkoding/zoomkoding-gatsby-blog/issues"
   }
 }

@@ -14,8 +14,8 @@ module.exports = {
     name: '장호영',
     bio: {
       role: '개발자',
-      description: ['함께 웃어야 행복한', '코딩을 최대한 피하는', '비즈니스 가치를 최우선시하는'],
-      thumbnail: 'sample.png', // Path to the image in the 'asset' folder
+      description: ['함께 웃어야 행복한', '코딩을 최대한 피하는'],
+      thumbnail: 'profile_jhy.gif', // Path to the image in the 'asset' folder
     },
     social: {
       github: 'https://github.com/jhy979',

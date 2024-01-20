@@ -11,10 +11,10 @@ module.exports = {
   },
   ga: '0', // Google Analytics Tracking ID
   author: {
-    name: '장호영',
+    name: ['장호영'],
     bio: {
       role: '개발자',
-      description: ['함께 웃어야 행복한', '코딩을 최대한 피하는'],
+      description: ['함께 웃어야 행복한'],
       thumbnail: 'profile_jhy.gif', // Path to the image in the 'asset' folder
     },
     social: {
